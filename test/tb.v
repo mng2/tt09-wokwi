@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_mng2_NCOs user_project (
+  tt_um_wokwi_414120248222232577 user_project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
